@@ -1,0 +1,3 @@
+C:/Users/FGUTOEH/source/repos/SocketTest/SocketTest/CMakeFiles/SocketTestCmake.dir
+C:/Users/FGUTOEH/source/repos/SocketTest/SocketTest/CMakeFiles/ALL_BUILD.dir
+C:/Users/FGUTOEH/source/repos/SocketTest/SocketTest/CMakeFiles/ZERO_CHECK.dir
